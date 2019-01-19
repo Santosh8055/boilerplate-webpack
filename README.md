@@ -17,7 +17,7 @@ creates prod files to <code>/dist</code> with:
 
 1. clone and run <code>npm install</code> in project folder
 
-# Preprocessor support (default: Sass)
+# Preprocessor support (default: Scss)
 
 --> if u want to change to <strong>less</strong> run:
 
