@@ -1,5 +1,5 @@
 {
-  "name": "webpack-4-boilerplate",
+  "name": "san-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build:prod": "webpack --env prod --mode production",
     "build:watch": "webpack-dev-server --env dev --mode none"
   },
-  "author": "mwieth",
+  "author": "Santosh Pasupunuri",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^8.6.0",
@@ -32,6 +32,5 @@
     "webpack-md5-hash": "0.0.6"
   },
   "dependencies": {
-    "css-reset-and-normalize": "^1.0.1"
   }
 }
